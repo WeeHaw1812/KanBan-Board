@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.popup {
+    display: none;
+    /* Thêm các thiết lập khác cho pop-up của bạn nếu cần */
+}
